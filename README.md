@@ -1,7 +1,5 @@
-<h1 aling="center">
-
-![logo nlx, ecoleta, rocketseat](./assets/Post.png)
-
+<h1 align="center">
+<img src="https://github.com/luiz21goncalves/ecoleta/raw/master/assets/Post.png" width="500">
 </h1>
 
 <blockquote align="center">“O aprendizado é contínuo e sempre haverá um próximo nível”</blockquote>
